@@ -1,0 +1,41 @@
+.contact-page-container {
+    background-color: rgb(85, 111, 74);
+    padding: 20px;
+    border: 5px dashed rgb(200, 200, 143);
+    border-radius: 20px;
+  }
+  
+  .contact-page-header {
+    color: rgb(239, 241, 247);
+    font-size: 48px;
+    text-align: center;
+  }
+  
+  .contact-page-label {
+    color: rgb(42, 42, 24);
+    font-size: 24px;
+  }
+  
+  .contact-page-input {
+    border: 3px solid rgb(34, 32, 34);
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-page-textarea {
+    height: 150px;
+    resize: none;
+  }
+  
+  .contact-page-button {
+    background-color: rgb(151, 21, 64);
+    color: rgb(236, 230, 118);
+    border: none;
+    padding: 10px 20px;
+    font-size: 24px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  

@@ -1,0 +1,9 @@
+.bold {
+    font-weight: bold;
+    color: Bred;
+  }
+  .centered {
+    text-align: center;
+    margin: 0 140px; /* add 20 pixels of margin on both sides */
+  }
+  
